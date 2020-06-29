@@ -1,0 +1,277 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    margin: 0px !important;
+	background-image: url("../img/bg1.png");
+	/* Background pattern from Toptal Subtle Patterns */
+}
+
+.banner
+{
+	border-top: black 3px solid;
+	border-bottom: black 3px solid;
+}
+.content
+{
+	margin-top: 10px;
+}
+
+.row
+{
+    text-align: center;
+    padding: 0px;
+	min-height: 10px;
+}
+
+.content img
+{
+	
+	width: 100%;
+	height: auto;
+	border: black 3px solid;
+}
+
+.midbar, h2
+{
+	text-align: center;
+	width: 100%;
+	font-weight: 900;
+}
+
+.midbar>h3
+{
+	color: black;
+}
+h2
+{
+	font-weight: 900;
+	color: black;
+}
+
+.content p
+{
+	color: black;
+}
+
+.bg-menucolor
+{
+	background-color: white !important;
+}
+
+
+
+.midbar h2
+{
+	font-weight: 900;
+	color: black;
+}
+
+.bg-footercolor
+{
+	background-color: #141517 !important;
+	color: white;
+}
+
+.footerlinkstyle>a:link
+{
+	color: white;
+}
+
+footer>a:hover
+{
+	color: white;
+}
+
+footer>a:visited
+{
+	color: white;
+}
+
+footer>a:active
+{
+	color: white;
+}
+
+.content-border
+{
+	border: white 15px solid;
+}
+
+.link>a:link
+{
+	color: white;
+}
+
+.link>a:hover
+{
+	color: white;
+}
+
+.link>a:visited
+{
+	color: white;
+}
+
+input[type=text]:focus,
+input[type=password]:focus
+{
+	-webkit-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	border: 2px solid #a6a6a6;
+	background-color: #d9d9d9;
+	color: #666;
+}
+
+input[type=text],
+input[type=number],
+input[type=password]
+{
+	width: 100%;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+}
+
+.formset
+{
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+input[type=submit]
+{
+	width: 100%;
+	background-color: #141517;
+	font-size:20px;
+	color: white;
+	padding: 15px 10px;
+	margin-top: 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+}
+
+input[type=submit]:focus
+{
+	-webkit-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+}
+
+input[type=submit]:hover
+{
+	background-color: #141417;
+}
+
+.formset
+{
+	font-size: 20px;
+	
+}
+
+.pricefont
+{
+	font-size: 17px;
+	border-top: black 3px solid;
+	font-weight: 400;
+}
+
+.buttonstyle
+{
+	width: 100%;
+	background-color: #141517;
+	font-size:20px;
+	color: white;
+	padding: 10px 5px;
+	margin-top: 2px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+}
+
+.buttonstyle:focus
+{
+	-webkit-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+}
+
+.buttonstyle:hover
+{
+	background-color: #141417;
+}
+
+.emptyinf
+{
+	color: darkgrey;
+	font-size: 50px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	opacity: 0.5;
+}
+
+.select-size  input{
+  display: none;
+}
+
+label {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 1px solid #ddd;
+  line-height: 50px;
+  cursor: pointer;
+}
+
+#small:checked ~ label[for="small"],
+#medium:checked ~ label[for="medium"],
+#large:checked ~ label[for="large"],
+#x-large:checked ~ label[for="x-large"],
+#xx-large:checked ~ label[for="xx-large"] {
+  background: #999;
+  color: #ffffff;
+}
+
+.custom-select
+{
+	width: 100%;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+}
+
+.custom-select:hover
+{
+	-webkit-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	border: 2px solid #a6a6a6;
+	background-color: #d9d9d9;
+	color: #666;
+}
+
+h5>button
+{
+	font-weight: 700;
+}
