@@ -25,6 +25,12 @@
 
 	  gtag('config', 'UA-162157262-2');
 	</script>
+	<script>
+	function shopoff()
+	{
+		alert("Aktualnie nie przyjmujemy zamówień");
+	}
+	</script>
 
 </head>
 <body>
@@ -143,7 +149,7 @@
 					<?php
 					if(isset($_SESSION['koszyknum']))
 					{
-						echo		'<form action="koszyk.php" method="post"><input type="submit" value="Złóż zamówienie"></form>';
+						echo		'<form action="koszyk.php" method="post"><input onclick="shopoff()" type="submit" value="Złóż zamówienie"></form>';
 					}
 					?>
 					</div>

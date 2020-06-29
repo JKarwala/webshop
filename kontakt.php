@@ -140,22 +140,22 @@
 
 					<ul class="list-unstyled">
 					  <li>
-						<span class="text-decoration-none text-dark"><b>Podchorążych 2</b></span >
+						<span class="text-decoration-none text-dark"><b>ul. ... ... ...</b></span >
 					  </li>
 					  <li>
-						<span  class="text-decoration-none text-dark "><b>30-084 Kraków</b></span >
+						<span  class="text-decoration-none text-dark "><b>Kraków</b></span >
 					  </li>
 					  <li>
 						<span  class="text-decoration-none text-dark"><b>Małopolska</b></span >
 					  </li>
 					  <li>
-						<span  class="text-decoration-none text-dark"><b>12 662 60 14</b></span >
+						<span  class="text-decoration-none text-dark"><b>12 345 67 89</b></span >
 					  </li>
 					</ul>
 				  </section>
 				</div>
 				<div class="col-12 col-md-6">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.3613160038217!2d19.90815291327825!3d50.07338304723389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165bb0c172b203%3A0x15a71d3ed97809d2!2sUniwersytet%20Pedagogiczny%20im.%20Komisji%20Edukacji%20Narodowej!5e0!3m2!1spl!2spl!4v1585491297083!5m2!1spl!2spl" height="500" style="border:2px black solid; width: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d81987.56453520768!2d19.934833702862186!3d50.046744576942814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471644c0354e18d1%3A0xb46bb6b576478abf!2zS3Jha8Ozdw!5e0!3m2!1spl!2spl!4v1593456065586!5m2!1spl!2spl" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>" height="500" style="border:2px black solid; width: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 				</div>
 			</div>
 		</main>
